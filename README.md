@@ -35,7 +35,6 @@ To get a local copy up and running follow these simple example steps.
 - Run ```rails db:create``` to create db
 - Run ```rails db:migrate``` to evolve db schema
 - Run ```rails db:seed``` to populate db with initial data
-- *Optional* ```npm install``` to install stylelint dependencies
 
 ### Usage
 
