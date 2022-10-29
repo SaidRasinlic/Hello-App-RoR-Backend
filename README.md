@@ -45,7 +45,7 @@ Make sure to run the server on `port 3000` to communicate with the front-end
 
 ## Author
 
-👤👤 **Said Rasinlic**
+👤 **Said Rasinlic**
 
 - GitHub: [@GitHub/SaidRasinlic](https://github.com/SaidRasinlic)
 - Twitter: [@Twitter/SaidRasinlic](https://twitter.com/SaidRasinlic)
